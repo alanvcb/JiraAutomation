@@ -2,7 +2,8 @@ program ProjJiraAutomation;
 
 uses
   Vcl.Forms,
-  UMain in 'UMain.pas' {Form1};
+  UMain in 'UMain.pas' {Form1},
+  UTask in 'UTask.pas';
 
 {$R *.res}
 
